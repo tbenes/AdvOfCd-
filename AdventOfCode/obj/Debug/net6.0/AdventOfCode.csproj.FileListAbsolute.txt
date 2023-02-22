@@ -1,0 +1,15 @@
+C:\Users\benes\OneDrive\Plocha\JOB\AdventOfCode\AdventOfCode\bin\Debug\net6.0\AdventOfCode.exe
+C:\Users\benes\OneDrive\Plocha\JOB\AdventOfCode\AdventOfCode\bin\Debug\net6.0\AdventOfCode.deps.json
+C:\Users\benes\OneDrive\Plocha\JOB\AdventOfCode\AdventOfCode\bin\Debug\net6.0\AdventOfCode.runtimeconfig.json
+C:\Users\benes\OneDrive\Plocha\JOB\AdventOfCode\AdventOfCode\bin\Debug\net6.0\AdventOfCode.dll
+C:\Users\benes\OneDrive\Plocha\JOB\AdventOfCode\AdventOfCode\bin\Debug\net6.0\AdventOfCode.pdb
+C:\Users\benes\OneDrive\Plocha\JOB\AdventOfCode\AdventOfCode\obj\Debug\net6.0\AdventOfCode.csproj.AssemblyReference.cache
+C:\Users\benes\OneDrive\Plocha\JOB\AdventOfCode\AdventOfCode\obj\Debug\net6.0\AdventOfCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benes\OneDrive\Plocha\JOB\AdventOfCode\AdventOfCode\obj\Debug\net6.0\AdventOfCode.AssemblyInfoInputs.cache
+C:\Users\benes\OneDrive\Plocha\JOB\AdventOfCode\AdventOfCode\obj\Debug\net6.0\AdventOfCode.AssemblyInfo.cs
+C:\Users\benes\OneDrive\Plocha\JOB\AdventOfCode\AdventOfCode\obj\Debug\net6.0\AdventOfCode.csproj.CoreCompileInputs.cache
+C:\Users\benes\OneDrive\Plocha\JOB\AdventOfCode\AdventOfCode\obj\Debug\net6.0\AdventOfCode.dll
+C:\Users\benes\OneDrive\Plocha\JOB\AdventOfCode\AdventOfCode\obj\Debug\net6.0\refint\AdventOfCode.dll
+C:\Users\benes\OneDrive\Plocha\JOB\AdventOfCode\AdventOfCode\obj\Debug\net6.0\AdventOfCode.pdb
+C:\Users\benes\OneDrive\Plocha\JOB\AdventOfCode\AdventOfCode\obj\Debug\net6.0\AdventOfCode.genruntimeconfig.cache
+C:\Users\benes\OneDrive\Plocha\JOB\AdventOfCode\AdventOfCode\obj\Debug\net6.0\ref\AdventOfCode.dll
